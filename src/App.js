@@ -1,7 +1,10 @@
+import { BrowserRouter } from "react-router-dom";
 
 function App() {
   return (
-    <h1>Olá mundo!</h1>
+    <BrowserRouter>
+      
+    </BrowserRouter>
   );
 }
 
