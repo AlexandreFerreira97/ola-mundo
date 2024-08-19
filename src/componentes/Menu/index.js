@@ -8,7 +8,7 @@ const Menu = () => {
     return (
         <header>
             <nav className={styles.navegacao}>
-                <Link className={styles.link} to="/">
+                <Link className={`${styles.link} ${localizacao.pathname === "/" ? styles.link_destacado : " "}`} to="/">
                     Inicio
                 </Link>
                 <Link className="link" to="/sobremim">
