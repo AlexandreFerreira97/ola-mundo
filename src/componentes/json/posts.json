@@ -23,10 +23,5 @@
         "id": 5,
         "titulo": "Jogo Mario Jump",
         "descrição":  "Um jogo feito em HTML5, CSS3 e JavaScript, que usa o icônico personagem Mario (aquele mesmo do super nintendo) ."
-    },
-    {
-        "id": 6,
-        "titulo": "Cards Responsivos",
-        "descrição": "Cards responsivos usando HTML5 e CSS3."
     }
 ]
