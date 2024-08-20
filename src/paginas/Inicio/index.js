@@ -1,13 +1,15 @@
 import Banner from "../../componentes/Banner"
+import styles from './Inicio.Module.css'
 
 const Inicio = () => {
     return (
 
         <main>
-
             <Banner/>
 
-            <h1>Olá mundo!</h1>
+            <ul className={styles.post}>
+
+            </ul>
 
         </main>
     )
