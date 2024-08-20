@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Organo",
+        "descrição": "Um projeto feito com JavaScript e usando a biblioteca React."
+    },
+    {
+        "id": 2,
+        "titulo": "Jogo da Forca",
+        "descrição":  "Um jogo da forca usando HTML5, CSS3 e JavaScript."
+    },
+    {
+        "id": 3,
+        "titulo": "Jogo da Memória",
+        "descrição":  "Um jogo da memória com personagens de Naruto usando HTML5, CSS3 e JavaScript."
+    },
+    {
+        "id": 4,
+        "titulo": "Jogo Mario Jump",
+        "descrição":  "Um jogo feito em HTML5, CSS3 e JavaScript, que usa o icônico personagem Mario (aquele mesmo do super nintendo) ."
+    },
+    {
+        "id": 5,
+        "titulo": "Cards Responsivos",
+        "descrição": "Cards responsivos usando HTML5 e CSS3."
+    }
+]
