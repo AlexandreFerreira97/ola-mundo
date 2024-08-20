@@ -7,6 +7,11 @@ const Post = ( {post} ) => {
                 src={`/imgPR/posts/${post.id}/capa.PNG`}
                 alt='Imagem do Projeto'
             />
+
+            <h2 className={styles.titulo}>{post.titulo}</h2>
+
+            <button className={styles.botaoLer}>Ler</button>
+
         </div>
     )
 }
