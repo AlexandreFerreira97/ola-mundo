@@ -1,5 +1,6 @@
 import Banner from "../../componentes/Banner"
-import styles from './Inicio.Module.css'
+import styles from './Inicio.module.css'
+import posts from '../../componentes/json/posts.json'
 
 const Inicio = () => {
     return (
@@ -7,8 +8,12 @@ const Inicio = () => {
         <main>
             <Banner/>
 
-            <ul className={styles.post}>
-
+            <ul className={styles.pts}>
+                {posts.map( (post) => (
+                    <li key={post.id}>
+                        Post...
+                    </li>
+                ) )}
             </ul>
 
         </main>
