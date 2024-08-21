@@ -1,9 +1,35 @@
 .pts {
     padding: 0 6vw 3.625rem;
-    display: flex;
+    display: column;
     justify-content: center;
+    text-align: center;
     flex-wrap: wrap;
     gap: 1.5rem;
+}
+
+.lista{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:100rem;
+}
+
+.ancora{
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.img{
+    width: 10vw;
+}
+.imgG{
+    width: 10vw;
+}
+
+.lh{
+    border-color:#aaa;
+  box-sizing:border-box;
+  width:100%;
 }
 
 @media (max-width: 1100px) {
