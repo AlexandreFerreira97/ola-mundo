@@ -6,6 +6,7 @@
     padding-bottom: 1.5rem;
     transition: transform .2s;
     margin-top: 5rem;
+    overflow: hidden;
 }
 
 .post:hover {
