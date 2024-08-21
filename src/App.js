@@ -4,6 +4,7 @@ import SobreMim from './paginas/SobreMim'
 import Menu from "./componentes/Menu";
 import Rodape from "./componentes/Rodape";
 import PaginaPadrao from "./componentes/PaginaPadrao";
+import Post from "./paginas/Post";
 
 function App() {
   return (
@@ -16,10 +17,11 @@ function App() {
         <Route path="/" element={<PaginaPadrao/>}>
           <Route path="/" element = {<Inicio/>}/>
           <Route path="/SobreMim" element={<SobreMim/>}/>
+          <Route path="/post" element={<Post/>}/>
         </Route>
 
         <Route path="*" element= {<div><h1>Page not found</h1></div>}/>
-        
+
       </Routes>
 
       <Rodape/>
