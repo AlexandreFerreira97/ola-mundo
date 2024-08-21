@@ -17,6 +17,7 @@ const Post = ( {post} ) => {
                 <img className={styles.gitH}
                     src={github}
                     alt='github'
+                    title='GitHub'
                 />
             </a>
 
