@@ -41,6 +41,15 @@
     border: 3px solid var(--azul-escuro);
 }
 
+.ancora{
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.gitH{
+    width: 15%;
+}
+
 @media (max-width: 1100px) {
     .post {
         width: 336px;
