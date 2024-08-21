@@ -4,7 +4,11 @@ const Post = () => {
 
     const parametros = useParams()
 
-    return "op"
+    return (
+        <h1>
+            post {parametros.id}
+        </h1>
+    )
 }
 
 export default Post
