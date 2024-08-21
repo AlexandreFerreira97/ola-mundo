@@ -1,5 +1,4 @@
 import styles from './Post.module.css'
-import github from '../assets/github.png'
 import { Link } from 'react-router-dom'
 
 const PostCard = ({ post }) => {
