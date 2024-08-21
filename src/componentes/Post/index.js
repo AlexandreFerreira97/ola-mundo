@@ -11,7 +11,7 @@ const Post = ( {post} ) => {
 
             <h2 className={styles.titulo}>{post.titulo}</h2>
 
-            <button className={styles.botaoLer}>Ler</button>
+            <button className={styles.botaoLer}>Descrição</button>
 
             <a className={styles.ancora} href='https://github.com/AlexandreFerreira97'>
                 <img className={styles.gitH}
