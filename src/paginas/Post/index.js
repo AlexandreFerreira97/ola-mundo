@@ -12,6 +12,10 @@ const Post = () => {
         return post.id === Number(parametros.id)
     })
 
+    if (!post){
+        return <h1>Post não encontrado!</h1>
+    }
+
     return (
         <h1>
             <PostModelo fotoCapa={`/public/imgPr/posts/${post.id}/capa.png`} titulo={post.titulo}>
