@@ -2,7 +2,7 @@
     {
         "id":1,
         "titulo": "Olá Mundo!",
-        "descrição": "Meu site pessoal, onde coloco alguns de meus projetos."
+        "descrição": "Este é o meu site pessoal, desenvolvido com a biblioteca React do JavaScript, projetado para servir como um portfólio onde compartilho informações sobre mim e apresento alguns dos meus projetos de desenvolvimento. O site foi construído com uma estrutura modular, utilizando o React Router Dom para criar uma navegação eficiente e suave entre as diferentes páginas. Isso permite que o usuário explore facilmente o conteúdo, sem recarregamentos desnecessários, proporcionando uma experiência de navegação rápida e agradável.Para o gerenciamento de conteúdo textual, utilizei o React Markdown, o que me permite escrever e formatar conteúdo em Markdown, tornando a atualização do site simples e flexível. Isso é particularmente útil para manter o conteúdo do site dinâmico e atualizado, com seções como blogs, descrições de projetos e outras informações relevantes.O design do site foi pensado para ser limpo, moderno e responsivo, garantindo que a interface se adapte perfeitamente a qualquer dispositivo, seja desktop, tablet ou smartphone. As animações sutis e a disposição clara dos elementos visuais foram planejadas para tornar a experiência do usuário intuitiva e envolvente, destacando minhas habilidades em desenvolvimento front-end.Além de apresentar meus projetos, o site também inclui uma seção onde falo sobre minha trajetória, conhecimentos e interesses, oferecendo uma visão completa do meu perfil como desenvolvedor. Este projeto não só demonstra minha proficiência em React, mas também meu compromisso com a criação de experiências web ricas e funcionais."
     },
     {
         "id": 2,
@@ -12,16 +12,16 @@
     {
         "id": 3,
         "titulo": "Jogo da Forca",
-        "descrição":  "Um jogo da forca usando HTML5, CSS3 e JavaScript."
+        "descrição":  "Este projeto é uma versão digital do tradicional Jogo da Forca, desenvolvido utilizando as tecnologias HTML5, CSS3 e JavaScript. O jogo conta com um banco de dados diversificado, onde as palavras são selecionadas aleatoriamente a cada partida, garantindo uma experiência sempre nova para o jogador. Além disso, cada palavra vem acompanhada de uma dica, facilitando o processo de adivinhação e tornando o jogo mais acessível para diferentes níveis de conhecimento.A interface é simples e intuitiva, projetada para proporcionar uma experiência agradável. As animações suaves e o design  asseguram que o jogo seja visualmente atraente e fácil de jogar. Este projeto foi idealizado para aprimorar habilidades em manipulação de DOM, eventos e lógica de programação em JavaScript, ao mesmo tempo em que oferece uma maneira divertida e educativa de passar o tempo."
     },
     {
         "id": 4,
-        "titulo": "Jogo da Memória",
-        "descrição":  "Um jogo da memória com personagens de Naruto usando HTML5, CSS3 e JavaScript."
+        "titulo": "Jogo da Memória - Naruto Edition",
+        "descrição":  "Este projeto é um Jogo da Memória temático, desenvolvido com HTML5, CSS3 e JavaScript, utilizando figuras icônicas do anime Naruto. O jogo desafia o jogador a encontrar todos os pares de cartas correspondentes, testando suas habilidades de memória e atenção. Cada carta no jogo é ilustrada com personagens e símbolos conhecidos do universo de Naruto, tornando a experiência ainda mais envolvente para os fãs da série. A interface do jogo é projetada para ser simples e intuitiva, permitindo que jogadores de todas as idades possam desfrutar. Este projeto foi criado com o objetivo de praticar manipulação de DOM, lógica de jogo e criação de interfaces interativas, resultando em uma aplicação divertida e visualmente atrativa."
     },
     {
         "id": 5,
         "titulo": "Jogo Mario Jump",
-        "descrição":  "Um jogo feito em HTML5, CSS3 e JavaScript, que usa o icônico personagem Mario (aquele mesmo do super nintendo) ."
+        "descrição":  "Mario Jump é um emocionante jogo de plataforma 2D desenvolvido com HTML5, CSS3 e JavaScript. Inspirado nos clássicos jogos de Mario, o objetivo é guiar o personagem através de um mapa 2D repleto de obstáculos, pulando e correndo para evitar os desafios ao longo do caminho.Utilizando a tecnologia HTML5 para estruturação, CSS3 para estilização e animações com keyframes, o jogo apresenta um visual vibrante e dinâmico. As animações de salto e movimento são criadas com precisão para garantir uma jogabilidade fluida e envolvente. O JavaScript é responsável pela lógica do jogo, incluindo detecção de colisões, controle de movimento e gerenciamento de pontuação.A interface do jogo é projetada para ser intuitiva, com controles simples que permitem ao jogador se concentrar na diversão. Este projeto foi desenvolvido para aprimorar habilidades em manipulação de eventos, animações CSS e lógica de jogos, resultando em uma aplicação interativa e divertida que homenageia os clássicos jogos de plataforma."
     }
 ]
