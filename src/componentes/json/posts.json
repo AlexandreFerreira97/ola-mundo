@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "titulo": "Olá Mundo!",
+        "titulo": "Meu site",
         "descrição": "Este é o meu site pessoal, desenvolvido com a biblioteca React do JavaScript, projetado para servir como um portfólio onde compartilho informações sobre mim e apresento alguns dos meus projetos de desenvolvimento. O site foi construído com uma estrutura modular, utilizando o React Router Dom para criar uma navegação eficiente e suave entre as diferentes páginas. Isso permite que o usuário explore facilmente o conteúdo, sem recarregamentos desnecessários, proporcionando uma experiência de navegação rápida e agradável.Para o gerenciamento de conteúdo textual, utilizei o React Markdown, o que me permite escrever e formatar conteúdo em Markdown, tornando a atualização do site simples e flexível. Isso é particularmente útil para manter o conteúdo do site dinâmico e atualizado, com seções como blogs, descrições de projetos e outras informações relevantes.O design do site foi pensado para ser limpo, moderno e responsivo, garantindo que a interface se adapte perfeitamente a qualquer dispositivo, seja desktop, tablet ou smartphone. As animações sutis e a disposição clara dos elementos visuais foram planejadas para tornar a experiência do usuário intuitiva e envolvente, destacando minhas habilidades em desenvolvimento front-end.Além de apresentar meus projetos, o site também inclui uma seção onde falo sobre minha trajetória, conhecimentos e interesses, oferecendo uma visão completa do meu perfil como desenvolvedor. Este projeto não só demonstra minha proficiência em React, mas também meu compromisso com a criação de experiências web ricas e funcionais."
     },
     {
