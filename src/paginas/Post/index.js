@@ -3,6 +3,7 @@ import posts from '../../componentes/json/posts.json'
 import PostModelo from "../../componentes/PostModelo"
 import ReactMarkDown from 'react-markdown'
 import './Post.css'
+import NaoEncontrada from "../NaoEncontrada"
 
 const Post = () => {
 
@@ -13,7 +14,7 @@ const Post = () => {
     })
 
     if (!post){
-        return <h1>Post não encontrado!</h1>
+        return <NaoEncontrada/>
     }
 
     return (
